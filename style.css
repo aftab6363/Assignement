@@ -1,0 +1,22 @@
+
+body{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 70vh;
+background-color: aliceblue;
+margin: 0;
+}
+h2{
+    text-align: center;
+}
+table{
+    background-color: aqua;
+border-collapse: collapse;
+width: 400px;
+text-align: center;
+}
+td,th{
+    padding: 10px;
+
+}
